@@ -1,2 +1,2 @@
 # First Git Commit
- A First Cit Commit
+ A First Git Commit
